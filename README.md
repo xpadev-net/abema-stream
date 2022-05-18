@@ -2,8 +2,8 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/xpadev-net/niconicomments/blob/master/LICENSE)  
 Abemaから生配信をダウンロードするコマンド兼モジュールです  
 This is a script to download streams from Abema    
-Reference： https://xpadev.net/abemastream/docs/  
-Github： https://github.com/xpadev-net/abemastream
+Github： https://github.com/xpadev-net/abema-stream  
+PyPI： https://pypi.org/project/AbemaStream/
 
 ## ATTENTION
 実行にはFFmpegが必要です

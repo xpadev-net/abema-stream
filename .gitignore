@@ -1,3 +1,6 @@
-./venv/
-./build/
-./AbemaStream.egg-info/
+/venv/
+/build/
+/AbemaStream.egg-info/
+/dist/
+/AbemaStream/__pycache__/
+/.DS_Store

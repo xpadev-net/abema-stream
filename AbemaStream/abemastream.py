@@ -211,7 +211,7 @@ class AbemaStream:
             except urllib.error as e:
                 logger.debug(e)
             else:
-                logger.debug("fetch: {} lines // {} segments".format(len(lines), len(self.segments)))
+                logger.debug("fetch: {} lines / / {} segments".format(len(lines), len(self.segments)))
                 time.sleep(1)
 
     def download(self):
